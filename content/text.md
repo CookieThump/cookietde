@@ -22,4 +22,4 @@ However, starting a career as a penetration tester without OSCP and without prof
 
 Interested? Please [contact me](/contact)!
 
-You can also visit this page in the [Darknet](http://cookietdohwq5inwylwdtqz3avwdqro56f5p7tbgbsmbxschezp57yqd.onion) 🧅.
+You can also visit this page in the [Clearweb](https://cookiet.de).
