@@ -26,4 +26,4 @@ Doch der Berufseinstieg als Penetrationstester ohne OSCP und ohne Berufserfahrun
 
 Interessiert? Bitte [kontaktiere mich](/contact) gerne!
 
-You can also visit this page in the [darknet](http://cookietdohwq5inwylwdtqz3avwdqro56f5p7tbgbsmbxschezp57yqd.onion).
+You can also visit this page in the [Darknet](http://cookietdohwq5inwylwdtqz3avwdqro56f5p7tbgbsmbxschezp57yqd.onion).
