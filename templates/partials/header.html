@@ -64,41 +64,45 @@
         setDark(localStorage.getItem("dark") !== "true");
       });
     </script>
+    <div class="flex w-full items-center lg:w-auto">
     {% if config.extra.menu %}
-    <nav class="flex w-full items-center lg:w-auto">
-      <ul
-        class="nav-wrapper flex w-full flex-col py-2 lg:w-auto lg:flex-row lg:self-center lg:py-0"
-      >
-      {% if lang != config.default_language %}
-        {% set language_prefix = "/" ~ lang %}
-      {% else %}
-        {% set language_prefix = "" %}
+      <nav>
+        <ul
+          class="nav-wrapper flex w-full flex-col py-2 lg:w-auto lg:flex-row lg:self-center lg:py-0"
+        >
+        {% if lang != config.default_language %}
+          {% set language_prefix = "/" ~ lang %}
+        {% else %}
+          {% set language_prefix = "" %}
+        {% endif %}
+          {% for name, item in config.extra.menu %}
+          <li>
+            <a
+              class="primary-link block py-2 text-center text-lg font-medium lg:px-3 lg:py-0"
+              href="{{ language_prefix }}{{ item.url | replace(from=`$BASE_URL`, to=config.base_url) | safe }}"
+              >{{ trans(key="menu_" ~ name, lang=lang) }}</a
+            >
+          </li>
+          {% endfor %}
+        </ul>
+        <!-- Header Nav inject -->
+        {% include "injects/header_nav.html" ignore missing %}
+      </nav>
+      <nav class="flex w-full items-center lg:w-auto justify-end pl-5">
+      {% if current_path %}
+        {% if lang == config.default_language %}
+          {% set lang_target = "/de" ~ current_path %}
+          {% set lang_icon = "🇩🇪" %}
+        {% else %}
+          {% set lang_target = current_path | trim_start_matches(pat="/") | trim_start_matches(pat="de") %}
+          {% set lang_icon = "🇬🇧" %}
+        {% endif %}
+        <a href="{{lang_target}}">
+            {{ lang_icon }}
+        </a>
+        {% endif %}
+      </nav>
       {% endif %}
-        {% for name, item in config.extra.menu %}
-        <li>
-          <a
-            class="primary-link block py-2 text-center text-lg font-medium lg:px-3 lg:py-0"
-            href="{{ language_prefix }}{{ item.url | replace(from=`$BASE_URL`, to=config.base_url) | safe }}"
-            >{{ trans(key="menu_" ~ name, lang=lang) }}</a
-          >
-        </li>
-        {% endfor %}
-      </ul>
-      <!-- Header Nav inject -->
-      {% include "injects/header_nav.html" ignore missing %}
-    {% if current_path %}
-      {% if lang == config.default_language %}
-        {% set lang_target = "/de" ~ current_path %}
-        {% set lang_icon = "🇩🇪" %}
-      {% else %}
-        {% set lang_target = current_path | trim_start_matches(pat="/") | trim_start_matches(pat="de") %}
-        {% set lang_icon = "🇬🇧" %}
-      {% endif %}
-      <a href="{{lang_target}}">
-          {{ lang_icon }}
-      </a>
-      {% endif %}
-    </nav>
-    {% endif %}
+    </div>
   </div>
 </header>
