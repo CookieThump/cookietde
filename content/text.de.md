@@ -11,10 +11,8 @@ description = "whoami"
 ... seit meinen Jugendjahren bin ich fasziniert von IT-Sicherheit und habe gleich nach meinem Abitur ein Informatik Studium begonnen. Während meines Informatik Studiums fokussierte ich mich in meinem Bachelor erst teilweise, in meinem Masterstudiengang anschließend hauptsächlich auf offensive IT-Sicherheit. Zusätzlich begleitet mich der Spaß am hacken auch in meiner Freizeit.
 
 Nach dem Abschluss meines Studiums arbeitete ich für 2.5 Jahre als Security Engineer bei einem Softwarehaus und IT-Dienstleister für Steuerprodukte.
-Ich betreute mehrere Entwicklerteams, im Fokus stand hier das Ausbessern von
-Sicherheitslücken und die Lizenzverwaltung.
-Des Weiteren war ich verantwortlich für die Planung, Vor- und Nachbereitung von
-Penetrationstests, sowie die Aufarbeitung und Einarbeitung der Ergebnisse.
+Ich betreute mehrere Entwicklerteams, im Fokus stand hier das Ausbessern von Sicherheitslücken und die Lizenzverwaltung.
+Des Weiteren war ich verantwortlich für die Planung, Vor- und Nachbereitung von Penetrationstests, sowie die Aufarbeitung und Einarbeitung der Ergebnisse.
 
 Durch das Besuchen verschiedener Security Konferenzen in meiner Freizeit (BlackHat 22, Defcon 31, 37C3, Defcon 32) durfte ich auf meiner Arbeit verschiedene Vorträge zum Thema aktuelle Schwachstellen und deren Vermeidung im Bereich der IT-Sicherheit halten. Der größte Vortrag wurde dabei von 850 Leuten gehört.
 
