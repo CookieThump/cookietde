@@ -6,7 +6,7 @@ description = "whoami"
 ## Super, dass du meine Seite gefunden hast!
 ## Hi, ich bin CookieT, auch bekannt als CookieThumper...
 
-[TL;DR](/de/TL;DR)
+[TL;DR](/de/TLDR)
 
 ... seit meinen Jugendjahren bin ich fasziniert von IT-Sicherheit und habe gleich nach meinem Abitur ein Informatik-Studium begonnen. Während meines Informatik-Studiums fokussierte ich mich in meinem Bachelor erst teilweise, in meinem Masterstudiengang anschließend hauptsächlich auf offensive IT-Sicherheit. Zusätzlich begleitet mich der Spaß am Hacken auch in meiner Freizeit.
 

@@ -6,7 +6,7 @@ description = "whoami"
 ## Awesome, that you have found my site!
 ## My name is CookieT also known as CookieThumper...
 
-[TL;DR](/TL;DR)
+[TL;DR](/TLDR)
 
 I have been fascinated by IT security since I was a teenager and started studying computer science right after graduating from high school. During my computer science studies, I initially focused first partially in my bachelor's degree, and then mainly in my master's degree on offensive IT security. Furthermore, I always enjoyed hacking in my free time.
 
