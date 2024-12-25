@@ -33,7 +33,7 @@ I created a small website with a friend to hopefully find a new job.
 
 ## License
 
-This project is licensed under the CC BY-NC-ND 4.0 License - see the LICENSE.md file for details
+This project is licensed under the CC BY-NC-ND 4.0 License - see the LICENSE file for details
 
 ## Acknowledgments
 
