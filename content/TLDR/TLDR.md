@@ -2,12 +2,12 @@
 title = "TLDR"
 +++
 
-Ich habe...
-- ... Informatik im Bachelor und Master mit Fokus auf offensive IT-Sicherheit studiert
-- ... 2.5 Jahre bei einem IT-Dienstleister für Steuerprodukte als Security Engineer gearbeitet.
-- ... mehrere IT-Sicherheitskonferenzen besucht (BlackHat 22, Defcon 31, 37C3, Defcon 32)
-- ... einen Contest auf der Defcon 32 veranstaltet (CPS DART)
-- ... den zweiten Platz beim Red Team Village Red Team Rumble auf der Defcon 32 belegt
-- ... meinen Job gekündigt und OSCP im Eigenstudium begonnen um den Traumjob als Pentester zu finden
+I have...
+- ... studied computer science for a bachelor's and master's degree with focus on offensive IT security
+- ... worked as a security engineer for an IT service provider for tax products for 2.5 years
+- ... attended several IT security conferences (BlackHat 22, Defcon 31, 37C3, Defcon 32)
+- ... organized a contest at Defcon 32 ([CPS DART](https://forum.defcon.org/node/249396))
+- ... finished second place at Red Team Village [Red Team Rumble](https://redteamvillage.io/rtr.html) at Defcon 32
+- ... quit my job and started studying OSCP (PEN-200) on my own to find my dream job as a Pentester
 
-Falls du denkst ich könnte als Pentester zu euch passen, bitte [kontaktiere mich](/contact) gerne.
+If you think I could be a good fit for you or your company as a Pentester, please [contact me](/contact).
