@@ -34,9 +34,11 @@ https://www.getzola.org/
 KiTa Template
 https://github.com/st1020/kita/
 
-Github
-https://github.com/
+npm
+https://www.npmjs.com/
 
 Tailwind
 https://tailwindcss.com/
 
+Github
+https://github.com/
