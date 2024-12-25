@@ -12,4 +12,4 @@ I have...
 
 If you think I could be a good fit for you or your company as a Pentester, please [contact me](/contact).
 
-You can also visit this page in the [Darknet](http://cookietdohwq5inwylwdtqz3avwdqro56f5p7tbgbsmbxschezp57yqd.onion) 🧅.
+You can also visit this page in the [Clearweb](https://cookiet.de).
