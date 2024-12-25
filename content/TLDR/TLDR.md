@@ -11,3 +11,5 @@ I have...
 - ... quit my job and started studying OSCP (PEN-200) on my own to find my dream job as a Pentester
 
 If you think I could be a good fit for you or your company as a Pentester, please [contact me](/contact).
+
+You can also visit this page in the [Darknet](http://cookietdohwq5inwylwdtqz3avwdqro56f5p7tbgbsmbxschezp57yqd.onion) 🧅.
