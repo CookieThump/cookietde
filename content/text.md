@@ -3,7 +3,7 @@ title = "Looking for employement!"
 date = "2024-12-22"
 description = "whoami"
 +++
-## Awesome, that you have found my site!
+## Awesome that you have found my site!
 ## My name is CookieT also known as CookieThumper...
 
 [TL;DR](/TLDR)
